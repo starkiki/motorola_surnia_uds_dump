@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <feature name="com.motorola.software.device.surnia_uds" />
+    <feature name="com.motorola.software.product.surnia_retbr_ds" />
+    <feature name="com.motorola.hardware.tier.E" />
+    <feature name="com.motorola.hardware.wave.0" />
+</permissions>
